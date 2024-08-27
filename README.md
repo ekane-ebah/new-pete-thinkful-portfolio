@@ -1,2 +1,2 @@
-# starter-pete-thinkful-portfolio
+# new-pete-thinkful-portfolio
 CSS Assessment
