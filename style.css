@@ -52,8 +52,8 @@ a:hover {
 }
 
 nav a {
-  padding-left: 20px;
-  font-size: 20px;
+  padding-left: 15px;
+  font-size: 15px;
 }
 
 /* Images */
@@ -80,7 +80,7 @@ hr {
   border: 1px solid black;
 }
 hi {
-  font-size: 40px;
+  font-size: 30px;
 }
 /* aplying flexbox to content*/
 .navigate {
