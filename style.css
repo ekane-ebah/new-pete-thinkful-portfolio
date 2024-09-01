@@ -86,7 +86,6 @@ hi {
 .navigate {
   display: flex;
   flex-direction: row;
-  justify-content: center;
 }
 .intro {
   text-align: right;
